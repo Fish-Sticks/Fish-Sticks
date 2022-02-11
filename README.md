@@ -1,2 +1,3 @@
 ![pog stats](https://github-readme-stats.vercel.app/api?username=Fish-Sticks&show_icons=true&count_private=true&theme=tokyonight&custom_title=HEADHUNTER+IS+WINNING)
-![ew python](https://github-readme-stats.vercel.app/api/top-langs/?username=Fish-Sticks&layout=compact&theme=tokyonight&count_private=false&show_icons=true)
+
+![ew python](https://github-readme-stats.vercel.app/api/top-langs/?username=Fish-Sticks&layout=compact&theme=tokyonight&count_private=true&show_icons=true)
